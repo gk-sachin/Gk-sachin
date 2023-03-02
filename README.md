@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Gk-sachin
-- 👀 I’m interested in Software and App Develpoment
-- 🌱 I’m currently learning App Develpment
 - 💞️ I’m looking to collaborate on start up Company
 - 📫 You can reach me by
 - Twitter - @sachingk_
