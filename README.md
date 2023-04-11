@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
-# 💫 About Me:
 I'm Currently Learning ** Selenium Testing **
 
 
